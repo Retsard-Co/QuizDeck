@@ -1,0 +1,6 @@
+{
+  "name": "QuizDeck",
+  "description": "Local-first classroom quiz preparation, template import, and projector-friendly presentation tool with teacher-controlled answer reveal, safe randomization, and adaptive typography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
